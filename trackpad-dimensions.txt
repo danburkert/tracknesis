@@ -8,3 +8,5 @@ dot width - 8mm
 dot edge inboard - 7mm
 
 pad to pad - 111.5mm
+
+corner radius - 5mm
