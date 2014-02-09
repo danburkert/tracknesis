@@ -1,4 +1,4 @@
 tracknesis
 ==========
 
-![tracknesis](concept.jpg)
+![tracknesis](concept.JPG)
