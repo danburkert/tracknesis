@@ -1,8 +1,8 @@
 width - 130mm
 clicking surface length - 109mm
 clicking surface thickness - 4mm
-rod diameter - 18mm
-plate length - 122 mm
+rod diameter - 17 mm
+plate length - 123 mm
 
 dot width - 8mm
 dot edge inboard - 7mm
@@ -10,3 +10,8 @@ dot edge inboard - 7mm
 pad to pad - 111.5mm
 
 corner radius - 5mm
+
+white bottom piece length - 110mm
+white bottom piece width - 124mm
+
+
