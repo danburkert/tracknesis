@@ -7,16 +7,15 @@ keyboard.
 
 ## Assembly
 
-Print the holder and two footers models in a Makerbot Replicator 2 at medium
+Print a `tracknesis-center`, `tracknesis-left`, a `tracknesis-right`, a `connector` and `tracknesis-foot` models in a Makerbot Replicator 2 at medium
 quality & 15% density.
 
-Hot glue the two footers to the keyboard so that they line up with the clickers
+Hot glue the two feet to the keyboard so that they line up with the clickers
 on the bottom of the trackpad.
 
 ![tracknesis](footers.jpeg)
 
-Snap the holder onto the back edge of the keyboard. Finally, snap the trackpad
-into the holder.
+Snap the `tracknesis-center` onto the back edge of the keyboard. Finally, slide the trackpad into the three pieces.
 
 ## Thanks
 

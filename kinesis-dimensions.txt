@@ -1,4 +1,0 @@
-front edge height - 25mm
-front lower edge height - 17mm
-
-underside height - 14mm
