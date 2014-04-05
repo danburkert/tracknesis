@@ -7,7 +7,7 @@ keyboard.
 
 ## Assembly
 
-Print a `tracknesis-center`, `tracknesis-left`, a `tracknesis-right`, a `connector` and `tracknesis-foot` models in a Makerbot Replicator 2 at medium
+Print a `tracknesis-center`, a `tracknesis-left`, a `tracknesis-right`, a `connector` and two `tracknesis-foot` models in a Makerbot Replicator 2 at medium
 quality & 15% density.
 
 Hot glue the two feet to the keyboard so that they line up with the clickers
